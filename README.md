@@ -4,9 +4,9 @@ Qr Restaurant_Menu
 
 Preview:
 
+<img src="images/download.gif" height="400" width="700" />
 
 
-![Preview](images/download.gif)
 
 Features
 The user can browse through the categories in the menu and select the product they want.
