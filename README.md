@@ -3,7 +3,10 @@ Qr Restaurant_Menu
 
 
 Preview:
-(images/download.gif)
+
+
+
+![Preview](images/download.gif)
 
 Features
 The user can browse through the categories in the menu and select the product they want.
